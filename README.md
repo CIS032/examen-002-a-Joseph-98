@@ -5,9 +5,9 @@
 - Coloque finalmente en este mismo archivo los datos que se le solicita
 
 ## Datos:
-- Nombres:
-- Fecha de entrega:
-- Hora de entrega:
-- Observaciones:
+- Nombres:Joseph Andres Iñaguazo Guanuche
+- Fecha de entrega:07-02-2018
+- Hora de entrega:10:28
+- Observaciones:Estuvo complicado
 
 
